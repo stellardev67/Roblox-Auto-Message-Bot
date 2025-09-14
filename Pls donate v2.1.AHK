@@ -141,7 +141,7 @@ Gui, Add, Text, x20 y120 w850, **Donations/Communities:**
 Gui, Add, Text, x40 y140 w850, If you'd like to support development, consider donating:
 Gui, Add, Text, x60 y160 w850, PayPal: Coming Soon
 Gui, Add, Text, x60 y180 w850, Discord: https://discord.gg/W7t4ymBNYQ
-Gui, Add, Text, x60 y200 w850, Roblox Group: yourwalletaddress
+Gui, Add, Text, x60 y200 w850, Roblox Group: Coming soon
 
 Gui, Add, Text, x20 y250 w850, **Disclaimers & Script Info:**
 Gui, Add, Text, x40 y270 w850, This script is provided as-is, without warranty. Use responsibly.
@@ -842,3 +842,4 @@ SendFinalStats:
     ; Send webhook using the global function
     SendWebhook(msg)
 return
+
